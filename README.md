@@ -1,3 +1,4 @@
+<!--
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/72935263/150000011-9ce330d2-bbef-4812-ae88-e012ee72caf9.gif)
 
 
@@ -6,7 +7,7 @@
 
 ### Hi there 👋
 
-<!--
+
 **subhajitroycode/subhajitroycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
