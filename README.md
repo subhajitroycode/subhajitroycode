@@ -45,10 +45,10 @@
 <br>
 
 <!-- most used languages -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajitroycode&show_icons=true&locale=en&layout=compact" alt="subhajitroycode" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajitroycode&show_icons=true&locale=en&layout=compact" alt="subhajitroycode" /></p>
 
 <!-- github stats -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhajitroycode&theme=vue&show_icons=true&locale=en" alt="subhajitroycode" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=subhajitroycode&theme=vue&show_icons=true&locale=en" alt="subhajitroycode" /></p>
 
 <!-- streak count -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhajitroycode&" alt="subhajitroycode" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=subhajitroycode&" alt="subhajitroycode" /></p>
