@@ -35,9 +35,11 @@
 
 <!-- most used languages -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajitroycode&show_icons=true&locale=en&layout=compact" alt="subhajitroycode" /></p>
+<br>
 
 <!-- github stats -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhajitroycode&show_icons=true&locale=en" alt="subhajitroycode" /></p>
+<br>
 
 <!-- streak count -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhajitroycode&" alt="subhajitroycode" /></p>
