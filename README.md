@@ -12,9 +12,9 @@
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking to learn more about linux and open-source software.
 - 💬 Ask me about web development and technologies but please don't ask me to fix your laptop. 🤣
-- 📫 How to reach me: [e-mail](mailto:roysubhajit8697@gmai.com)
+- 📫 How to reach me: [E-mail](mailto:roysubhajit8697@gmai.com)
 - 😄 Pronouns: He / Him / His
-- ⚡ Fun fact: sometimes it's hard to track all the commit messages 😁
+- ⚡ Fun fact: Sometimes it's hard to track all the commit messages 😁
 
 <!-- <p align="left"> <a href="https://twitter.com/subhajitroycode" target="blank"><img src="https://img.shields.io/twitter/follow/subhajitroycode?logo=twitter&style=for-the-badge" alt="subhajitroycode" /></a> </p> -->
 <br>
