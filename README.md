@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking to learn more about linux and open-source software.
 - 💬 Ask me about web development and technologies but please don't ask me to fix your laptop. 🤣
-- 📫 How to reach me: [E-mail](mailto:subhajitroycode@gmail.com)
+- 📫 How to reach me: [E-mail](mailto:subhajitroycode@outlook.in)
 - 😄 Pronouns: He / Him / His
 - ⚡ Fun fact: Sometimes it's hard to track all the commit messages 😁
 
