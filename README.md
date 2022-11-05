@@ -52,3 +52,6 @@
 
 <!-- streak count -->
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=subhajitroycode&" alt="subhajitroycode" /></p>
+
+<!-- Hacktoberfest Badges -->
+[![@subhajitroycode's Holopin board](https://holopin.me/subhajitroycode)](https://holopin.io/@subhajitroycode)
