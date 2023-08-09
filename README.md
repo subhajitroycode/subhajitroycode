@@ -7,20 +7,28 @@
 <h3 align="center">A front-end web developer currently learning React<!--<i style="font-size: 12px">(almost finished)</i>--> and making some <a href="https://github.com/subhajitroycode?tab=repositories">projects</a> on the go and then the next stop is Web3 🚀</h3>
 <br>
 
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... -->
-- 👯 I’m looking to collaborate on open-source projects.
-- 🤔 I’m looking to learn more about linux and open-source software.
-- 💬 Ask me about web development and technologies but please don't ask me to fix your laptop. 🤣
-- 📫 How to reach me: [E-mail](mailto:subhajitroycode@outlook.in)
+<!-- - 🔭 I’m currently working on ... -->
+- 🌱 Currently delving into the realms of Blockchain, Web3, and Solidity.
+  
+- 👯 Passionate about collaborating on open-source projects that make a difference.
+
+- 🤔 Always curious to explore the latest frontend development tools and tricks.
+
+- 💬 Feel free to ask me anything about web development and cutting-edge technologies. Just don't ask me to fix your laptop! 🤣
+
+- 📫 Reach me at: [subhajitroycode@outlook.in](mailto:subhajitroycode@outlook.in)
+
 - 😄 Pronouns: He / Him / His
-- ⚡ Fun fact: Sometimes it's hard to track all the commit messages 😁
+
+- ⚡ Fun fact: Tracking all the commit messages sometimes feels like herding cats! 😁
+
+
 
 <!-- <p align="left"> <a href="https://twitter.com/subhajitroycode" target="blank"><img src="https://img.shields.io/twitter/follow/subhajitroycode?logo=twitter&style=for-the-badge" alt="subhajitroycode" /></a> </p> -->
 <br>
 
 <!-- Social medias -->
-## Connect with me:
+## Connect with me and let's code the future together:
 
 
 <p align="left">
