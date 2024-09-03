@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Subhajit Roy</h1>
-<h3 align="center">A front-end web developer currently learning React<!--<i style="font-size: 12px">(almost finished)</i>--> and making some <a href="https://github.com/subhajitroycode?tab=repositories">projects</a> on the go and then the next stop is Web3 🚀</h3>
+<h3 align="center">Front-end dev | Building in public | Web3 enthusiast | Constantly learning and creating. Follow along on my journey to the decentralized web! 🚀</h3>
 <br>
 
 <!-- - 🔭 I’m currently working on ... -->
