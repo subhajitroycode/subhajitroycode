@@ -62,7 +62,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=subhajitroycode&theme=vue&show_icons=true&locale=en" alt="subhajitroycode" /></p>
 
 <!-- streak count -->
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=subhajitroycode&" alt="subhajitroycode" /></p>
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=subhajitroycode)](https://git.io/streak-stats)-->
 
 <!-- Hacktoberfest Badges -->
 [![@subhajitroycode's Holopin board](https://holopin.me/subhajitroycode)](https://holopin.io/@subhajitroycode)
